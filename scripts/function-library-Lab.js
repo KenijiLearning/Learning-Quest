@@ -125,8 +125,8 @@ function createLeveledMobList() {
 	
 	// Mob details table
 	var Mobs = new mobDetails([
-		{ mobLevel: 1, mobName: 'Giant Rat', mobImage: 'mob-giant-rat-001', mobHP: 50 },
-		{ mobLevel: 1, mobName: 'Skeleton Warrior', mobImage: 'mob-skeleton-warrior-001', mobHP: 50 },
+		{ mobLevel: 1, mobName: 'Giant Sadie', mobImage: 'mob-giant-rat-001', mobHP: 50 },
+		{ mobLevel: 1, mobName: 'Brendon Warrior', mobImage: 'mob-skeleton-warrior-001', mobHP: 50 },
 		{ mobLevel: 1, mobName: 'Malicious Mold', mobImage: 'mob-malicious-mold-001', mobHP: 60 },
 		{ mobLevel: 1, mobName: 'Dervish Thug', mobImage: 'mob-dervish-thug-001', mobHP: 60 },
 		{ mobLevel: 1, mobName: 'Dark Bear', mobImage: 'mob-dark-bear-001', mobHP: 60 },
